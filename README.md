@@ -8,8 +8,8 @@ Backend Developer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [mahmutfy@gmail.com](mailto:mahmutfy@gmail.com)
-* 🧠  I'm learning Java, Spring Boot & React JS
-* 🤝  I'm open to collaborating on Backend Development Projects & Frontend Development Projects
+* 🧠  I'm learning ASP.NET and microservices
+* 🤝  I'm open to collaborating on Backend Development Projects
 
 ### Skills
 
