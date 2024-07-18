@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmut Furkan
 =====================================================================================================================================
 # 💫 About Me
-🌍 I'm based in Istanbul<br>✉️ You can contact me at mahmutfy@gmail.com<br>🧠 I'm learning Microservices, APIs and ASP.NET<br>🤝 I'm open to collaborating on Backend Development Projects & Frontend Development Projects<br>🧠 I'm learning ASP.NET and microservices<br>🤝 I'm open to collaborating on Backend Development Projects
+🌍 I'm based in Istanbul<br>✉️ You can contact me at mahmutfy@gmail.com<br>🧠 I'm learning ASP.NET and microservices<br>🤝 I'm open to collaborating on Backend Development Projects
 
 
 ## 🌐 Socials
