@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🤝 I'm open to collaborating on Backend Development and Mobile App Development Projects  
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanyıldırım9/)  
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://mahmutfurkanyildirim.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanyıldırım9/)  [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://mahmutfurkanyildirim.com/)
 
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
